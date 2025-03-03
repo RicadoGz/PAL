@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gz\\Desktop\\PAL\\github\\PAL\\week9\\monday\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28BD6BB1-FB8D-41F9-AD0C-153D1CD86E96}|..\\get-fgets\\get-fgets.vcxproj|C:\\Users\\gz\\Desktop\\PAL\\github\\PAL\\week9\\get-fgets\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAED829-C246-413A-B6FE-BE4C936783EF}|monday.vcxproj|C:\\Users\\gz\\Desktop\\PAL\\github\\PAL\\week9\\monday\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EAED829-C246-413A-B6FE-BE4C936783EF}|monday.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\gz\\Desktop\\PAL\\github\\PAL\\week9\\get-fgets\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\get-fgets\\Source.cpp",
+              "ToolTip": "C:\\Users\\gz\\Desktop\\PAL\\github\\PAL\\week9\\get-fgets\\Source.cpp",
+              "RelativeToolTip": "..\\get-fgets\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-03T09:42:05.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\gz\\Desktop\\PAL\\github\\PAL\\week9\\monday\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\gz\\Desktop\\PAL\\github\\PAL\\week9\\monday\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-03T09:31:11.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
