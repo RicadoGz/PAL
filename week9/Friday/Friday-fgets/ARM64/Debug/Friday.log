@@ -1,0 +1,7 @@
+﻿  get-fgets.cpp
+C:\Users\gz\Desktop\PAL\github\PAL\week9\Friday\get-fgets.cpp(7,2): error C2660: 'fgets': function does not take 2 arguments
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdio.h(198,28):
+      see declaration of 'fgets'
+      C:\Users\gz\Desktop\PAL\github\PAL\week9\Friday\get-fgets.cpp(7,2):
+      while trying to match the argument list '(char [20], size_t)'
+  
