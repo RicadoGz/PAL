@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="get-fgets.cpp">
+    <ClCompile Include="scanfs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

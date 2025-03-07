@@ -32,7 +32,7 @@
     <ProjectGuid>{d49adb20-30b8-416a-a2ea-79066cabc0f9}</ProjectGuid>
     <RootNamespace>Friday</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Friday-fgets</ProjectName>
+    <ProjectName>Friday-scanf</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -183,7 +183,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="get-fgets.cpp" />
+    <ClCompile Include="scanfs.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
